@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roxheifraholli1
 - I’m interested in coding and web development
--  I’m currently  a .NET Full Stack Developer
+-  I’m currently  a  Full Stack Developer
 - 💞️ I’m looking to collaborate on different web development projects
 - 📫 How to reach me : roxheifraholli1@gmail.com
 
