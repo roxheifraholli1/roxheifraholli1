@@ -1,8 +1,5 @@
 ### hey there,
 
-<a href="https://www.instagram.com/edyrkaj/">
-  <img align="left" alt="Roxhei's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://www.linkedin.com/in/roxhei-fraholli-656576159/">
   <img align="left" alt="Roxhei's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
