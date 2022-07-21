@@ -1,4 +1,4 @@
-### hey there,
+### Hey there,
 
 <a href="https://www.linkedin.com/in/roxhei-fraholli-656576159/">
   <img align="left" alt="Roxhei's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
