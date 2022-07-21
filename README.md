@@ -56,6 +56,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺 &nbsp; 👉 �
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=roxheifraholli1&count_private=true&show_icons=true&theme=swift" alt="Roxhei Fraholli" />
 
-  
+<br>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxheifraholli1&layout=compact)
