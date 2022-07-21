@@ -36,10 +36,10 @@ hi, i'm Roxhei Fraholli, a passionate full stack web developer and a freelance s
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 37 mins   ███████████░░░░░░░░░░░░░░   35.49 %
-TypeScript   2 hrs  5 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Sql          2 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   22.00 %
-GCL          2 hrs  0 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+JavaScript   5 hrs 37 mins   ███████████░░░░░░░░░░░░░░   35.49 %
+TypeScript   10 hrs  5 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+Sql          4 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   22.00 %
+GCL          3 hrs  0 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
 ```
 
 <!--END_SECTION:waka-->
@@ -50,19 +50,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺 &nbsp; 👉 �
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
 
-🚧  **my todo list stats:**
-<!-- TODO-IST:START -->
-🏆 &nbsp;7,995 Karma Points <br>
-🌸 &nbsp;Completed 5 tasks today <br>
-✅ &nbsp;Completed 673 tasks so far <br>
-⏳ &nbsp;Longest streak is 10 days <br>
-<!-- TODO-IST:END -->
-
 
 📈 &nbsp; my github stats
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=roxheifraholli1&count_private=true&show_icons=true&theme=swift" alt="Roxhei Fraholli" />
 
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxheifraholli1&layout=compact)
