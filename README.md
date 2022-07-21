@@ -8,7 +8,7 @@
 
 <br />
 
-hi, i'm Roxhei Fraholli, a passionate full stack web developer and a freelance software engineer from Albania. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Roxhei Fraholli, a passionate full stack web developer and a freelance software engineer from Albania. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.
 
 
 
