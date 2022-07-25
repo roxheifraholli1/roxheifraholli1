@@ -44,7 +44,7 @@ GCL          3 hrs  0 mins   █████▒░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺 &nbsp; 👉 👈
+if you like what i do, maybe consider buying me a coffee/tea 
 
 <a href="https://www.buymeacoffee.com/roxheifraholli" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
